@@ -1,0 +1,6 @@
+spacy==2.2.4
+numpy==1.19.5
+pandas==1.1.5
+nltk==3.2.5
+tweepy==3.10.0
+
